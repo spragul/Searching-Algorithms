@@ -1,0 +1,11 @@
+Time  Complexity of Linear Search:
+
+Best Case: In the best case, the key might be present at the first index. So the best case complexity is O(1)
+Worst Case: In the worst case, the key might be present at the last index i.e., opposite to the end from which the search has started in the list. So the worst-case complexity is O(N) where N is the size of the list.
+Average Case: O(N)
+
+
+Time Complexity of Binary Search Algorithm:
+Best Case: Time Complexity of Binary Search Algorithm: O(1);
+Average Case: Time Complexity of Binary Search Algorithm: O(log N)
+Worst Case Time: Complexity of Binary Search Algorithm: O(log N)
